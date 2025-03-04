@@ -35,8 +35,8 @@ Join the [discord](https://discord.gg/VnYRvBfgA6) to get help.
 I maintain a more user-friendly and complete [documentation here](https://capgo.app/docs/).
 
 ## Migration to v7
-
-- `privateKey` is not available anymore, it was used for the old encryption method. to migrate foolow this guide : [https://capgo.app/docs/plugin/cloud-mode/getting-started/](https://capgo.app/docs/cli/migrations/encryption/)
+ w
+- `privateKey` is not available anymore, it was used for the old encryption method. to migrate follow this guide : [https://capgo.app/docs/plugin/cloud-mode/getting-started/](https://capgo.app/docs/cli/migrations/encryption/)
 - To capacitor v7 : [https://capacitorjs.com/docs/updating/7-0](https://capacitorjs.com/docs/updating/7-0)
 
 ## Compatibility
